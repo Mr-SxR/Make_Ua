@@ -2,11 +2,11 @@
 
 ```
 cd $HOME
-rm -rf Mr_SxR
-git clone https://github.com/Mr-SxR/Mr_SxR.git
-cd Mr_SxR
+rm -rf Make_Ua
+git clone --depth=1 https://github.com/Mr-SxR/Make_Ua.git
+cd Make_Ua
 git pull
-python Clone.py
+python MAKE_UA.py
 ```
 # Contact
 
