@@ -1,10 +1,18 @@
-# Run
+# Installation
 
 ```
 cd $HOME
-rm -rf Make_Ua
-git clone --depth=1 https://github.com/Mr-SxR/Make_Ua.git
-cd Make_Ua
+rm -rf Mr_SxR
+git clone https://github.com/Mr-SxR/Mr_SxR.git
+cd Mr_SxR
 git pull
-python MAKE_UA.py
+python Clone.py
 ```
+# Contact
+
+- **Facebook**: [Masudur Rahman Sifat](https://www.facebook.com/sxr.404)
+- **WhatsApp**: [Mr.SxR](https://wa.me/+8801858094178)
+
+# Overview
+
+<img src="./MrSxR.jpg" width="400" alt="">
