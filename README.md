@@ -1,6 +1,6 @@
 # Installation
 
-```
+```Bash
 cd $HOME
 rm -rf Make_Ua
 git clone --depth=1 https://github.com/Mr-SxR/Make_Ua.git
